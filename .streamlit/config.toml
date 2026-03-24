@@ -1,0 +1,10 @@
+[theme]
+primaryColor = "#2E7D32"  # Deep Green (Agriculture theme)
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F8F9FA"
+textColor = "#1F1F1F"
+font = "sans serif"
+
+[server]
+headless = true
+
